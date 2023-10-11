@@ -1,0 +1,6 @@
+Parse out and store characters from their numeric values. 
+For each character, we want to know how many times it occurs in the file? 
+	        For each character, how many times is it paired with a prime number?
+	        What character has the highest average of prime numbers? 
+	        Rank the characters based on their prime number percentage. 
+                        Are there invalid cells? If so, let us handle by serving a warning and maintaining an error count. 
